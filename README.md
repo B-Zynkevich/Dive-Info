@@ -1,3 +1,5 @@
+Informational portal for divers
+
 http://diving.mnb-t.com/temp/
 
 http://diving.mnb-t.com/temp/Diver_Page.html
